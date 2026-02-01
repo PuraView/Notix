@@ -1,0 +1,13 @@
+
+{
+  "products": [
+    {
+      "id": "notat_pro",
+      "type": "nonConsumable",
+      "displayName": "Notat Pro",
+      "description": "Unlock unlimited appointments",
+      "price": 0.99,
+      "region": "EU"
+    }
+  ]
+}

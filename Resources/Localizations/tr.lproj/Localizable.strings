@@ -1,0 +1,87 @@
+"app_name" = "Notix";
+
+"appearance" = "Görünüm";
+"theme" = "Tema";
+"system" = "Sistem";
+"light" = "Açık";
+"dark" = "Koyu";
+
+"haptics" = "Haptik";
+"enable_haptics" = "Haptikleri etkinleştir";
+
+"notifications" = "Bildirimler";
+"notif_day_before" = "1 gün önce (09:00)";
+"notif_hour_before" = "1 saat önce";
+"open_ios_notification_settings" = "iOS Bildirim Ayarlarını Aç";
+"notifications_enabled" = "Bildirimler etkin.";
+"notifications_disabled" = "Bildirimler iOS Ayarlarında kapalı.";
+"notifications_not_requested" = "Bildirim izni henüz istenmedi.";
+"notifications_status_unknown" = "Bildirim durumu bilinmiyor.";
+
+"pro_version_header" = "⭐️ Pro Sürüm";
+"pro_version_title" = "Tüm özelliklerin kilidini aç";
+"only_price_per_year" = "Yılda yalnızca %@";
+"unlimited_unlocked" = "Sınırsız kullanım açıldı.";
+
+"about" = "Hakkında";
+"version" = "Sürüm";
+"privacy_policy" = "Gizlilik Politikası";
+"terms_of_use" = "Kullanım Şartları";
+"rate_this_app" = "Uygulamayı değerlendir";
+
+"delete_all_data" = "Tüm verileri sil";
+"delete_all_data_message" = "Tüm not ve randevuları kalıcı olarak silmek istiyor musunuz? Bu işlem geri alınamaz.";
+"cancel" = "Vazgeç";
+"delete" = "Sil";
+
+"termin" = "Randevu";
+"notiz" = "Not";
+"neue_erstellen" = "+ Yeni";
+"einstellungen" = "Ayarlar";
+"pro_upgrade" = "Pro Sürüm";
+"unlock_unlimited" = "Sınırsız randevuları aç";
+"price_label" = "Yalnızca €0,99";
+"complete" = "Tamamlandı";
+"edit" = "Düzenle";
+"create_new" = "Yeni oluştur";
+"settings_language" = "Dil";
+"settings_notifications" = "Bildirimler";
+"settings_about" = "Hakkında";
+"settings_pro" = "⭐️ Pro Sürüm";
+"activated" = "Aktif ✓";
+"upgrade" = "Yükselt";
+"restore_purchase" = "Satın alımı geri yükle";
+"limit_reached" = "Limit doldu: yükseltme gerekli";
+"day_before" = "1 gün önce (09:00)";
+"hour_before" = "1 saat önce";
+"reset_data" = "Tüm verileri sil";
+"developer" = "Geliştirici";
+"privacy_label" = "Veri toplanmıyor";
+"ok" = "Tamam";
+"name" = "İsim";
+"email" = "E‑posta";
+"termin_title" = "Başlık";
+"termin_date" = "Tarih ve Saat";
+"termin_note" = "Not (opsiyonel)";
+"save" = "Kaydet";
+"close" = "Kapat";
+"today" = "Bugün";
+"future" = "Gelecek";
+"past" = "Geçmiş";
+"completed" = "Tamamlandı";
+
+/* --- Reminder ekleri (TR) --- */
+"reminder" = "Hatırlatma";
+"remind" = "Şu kadar önce hatırlat";
+"minutes_before" = "dakika önce";
+"minutes_before_format" = "%d %@";
+
+/* --- Pro için gerekli iki anahtar (kalsın) --- */
+"one_time_price_format" = "Tek seferlik %@";
+"open_pro_with_price" = "Pro’yu aç — %@";
+
+/* --- Silme onayı --- */
+"confirm_delete_title" = "Silinsin mi?";
+"confirm_delete_message_termin" = "Bu randevuyu silmek istiyor musunuz?";
+"confirm_delete_message_note" = "Bu notu silmek istiyor musunuz?";
+"delete_confirm" = "Sil";

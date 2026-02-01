@@ -1,0 +1,88 @@
+"app_name" = "Notix";
+
+"appearance" = "Erscheinungsbild";
+"theme" = "Design";
+"system" = "System";
+"light" = "Hell";
+"dark" = "Dunkel";
+
+"haptics" = "Haptik";
+"enable_haptics" = "Haptik aktivieren";
+
+"notifications" = "Benachrichtigungen";
+"notif_day_before" = "1 Tag vorher (09:00)";
+"notif_hour_before" = "1 Stunde vorher";
+"open_ios_notification_settings" = "iOS-Benachrichtigungseinstellungen öffnen";
+"notifications_enabled" = "Benachrichtigungen sind aktiviert.";
+"notifications_disabled" = "Benachrichtigungen sind in den iOS-Einstellungen deaktiviert.";
+"notifications_not_requested" = "Berechtigung für Benachrichtigungen wurde noch nicht angefragt.";
+"notifications_status_unknown" = "Benachrichtigungsstatus unbekannt.";
+
+"pro_version_header" = "⭐️ Pro-Version";
+"pro_version_title" = "Alle Funktionen freischalten";
+"only_price_per_year" = "Nur %@/Jahr";
+"unlimited_unlocked" = "Unbegrenzte Nutzung freigeschaltet.";
+
+"about" = "Info";
+"version" = "Version";
+"privacy_policy" = "Datenschutzrichtlinie";
+"terms_of_use" = "Nutzungsbedingungen";
+"rate_this_app" = "App bewerten";
+
+"delete_all_data" = "Alle Daten löschen";
+"delete_all_data_message" = "Möchten Sie wirklich alle Notizen und Termine dauerhaft löschen? Dieser Vorgang kann nicht rückgängig gemacht werden.";
+"cancel" = "Abbrechen";
+"delete" = "Löschen";
+
+"termin" = "Termin";
+"notiz" = "Notiz";
+"neue_erstellen" = "+ Neu";
+"einstellungen" = "Einstellungen";
+"pro_upgrade" = "Pro-Version";
+"unlock_unlimited" = "Unbegrenzte Termine freischalten";
+"price_label" = "Nur 0,99 €";
+"complete" = "Erledigt";
+"edit" = "Bearbeiten";
+"create_new" = "Neu erstellen";
+"settings_language" = "Sprache";
+"settings_notifications" = "Benachrichtigungen";
+"settings_about" = "Info";
+"settings_pro" = "⭐️ Pro-Version";
+"activated" = "Aktiviert ✓";
+"upgrade" = "Upgrade";
+"restore_purchase" = "Kauf wiederherstellen";
+"limit_reached" = "Limit erreicht: Upgrade erforderlich";
+"day_before" = "1 Tag vorher (09:00)";
+"hour_before" = "1 Stunde vorher";
+"reset_data" = "Alle Daten löschen";
+"developer" = "Entwickler";
+"privacy_label" = "Keine Datenerfassung";
+"ok" = "OK";
+"name" = "Name";
+"email" = "E‑Mail";
+"termin_title" = "Titel";
+"termin_date" = "Datum & Uhrzeit";
+"termin_note" = "Notiz (optional)";
+"save" = "Speichern";
+"close" = "Schließen";
+"today" = "Heute";
+"future" = "Zukunft";
+"past" = "Vergangenheit";
+"completed" = "Erledigt";
+
+/* --- Reminder ekleri --- */
+"reminder" = "Erinnerung";
+"remind" = "Erinnern";
+"minutes_before" = "Minuten vorher";
+"minutes_before_format" = "%d %@";
+
+/* Einmaliger Kauf (neue Schlüssel) */
+"one_time_price_format" = "Einmalig %@";
+"open_pro_with_price" = "Pro freischalten (%@)";
+"pro_benefits_bullets" = "Unbegrenzte Termine und Notizen • Individuelle Erinnerungen • Theme-/Farbverbesserungen";
+
+/* Löschbestätigung (Alerts) */
+"confirm_delete_title" = "Löschen?";
+"confirm_delete_message_termin" = "Möchten Sie diesen Termin löschen?";
+"confirm_delete_message_note" = "Möchten Sie diese Notiz löschen?";
+"delete_confirm" = "Löschen";

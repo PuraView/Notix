@@ -1,0 +1,91 @@
+"app_name" = "Notix";
+
+"appearance" = "Weergave";
+"theme" = "Thema";
+"system" = "Systeem";
+"light" = "Licht";
+"dark" = "Donker";
+
+"haptics" = "Haptiek";
+"enable_haptics" = "Haptiek inschakelen";
+
+"notifications" = "Meldingen";
+"notif_day_before" = "1 dag van tevoren (09.00)";
+"notif_hour_before" = "1 uur van tevoren";
+"open_ios_notification_settings" = "iOS‑meldingsinstellingen openen";
+"notifications_enabled" = "Meldingen zijn ingeschakeld.";
+"notifications_disabled" = "Meldingen zijn uitgeschakeld in de iOS‑instellingen.";
+"notifications_not_requested" = "Meldingstoestemming is nog niet aangevraagd.";
+"notifications_status_unknown" = "Meldingsstatus onbekend.";
+
+"pro_version_header" = "⭐️ Pro‑versie";
+"pro_version_title" = "Alle functies ontgrendelen";
+"only_price_per_year" = "Slechts %@/jaar";
+"unlimited_unlocked" = "Onbeperkt gebruik ontgrendeld.";
+
+"about" = "Over";
+"version" = "Versie";
+"privacy_policy" = "Privacybeleid";
+"terms_of_use" = "Gebruiksvoorwaarden";
+"rate_this_app" = "Beoordeel deze app";
+
+"delete_all_data" = "Alle gegevens verwijderen";
+"delete_all_data_message" = "Weet je zeker dat je alle notities en afspraken permanent wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.";
+"cancel" = "Annuleren";
+"delete" = "Verwijderen";
+
+"termin" = "Afspraak";
+"notiz" = "Notitie";
+"neue_erstellen" = "+ Nieuw";
+"einstellungen" = "Instellingen";
+"pro_upgrade" = "Pro‑versie";
+"unlock_unlimited" = "Onbeperkte afspraken ontgrendelen";
+"price_label" = "Slechts €0,99";
+"complete" = "Voltooid";
+"edit" = "Bewerken";
+"create_new" = "Nieuw maken";
+"settings_language" = "Taal";
+"settings_notifications" = "Meldingen";
+"settings_about" = "Over";
+"settings_pro" = "⭐️ Pro‑versie";
+"activated" = "Geactiveerd ✓";
+"upgrade" = "Upgraden";
+"restore_purchase" = "Aankoop herstellen";
+"limit_reached" = "Limiet bereikt: upgrade vereist";
+"day_before" = "1 dag van tevoren (09.00)";
+"hour_before" = "1 uur van tevoren";
+"reset_data" = "Alle gegevens verwijderen";
+"developer" = "Ontwikkelaar";
+"privacy_label" = "Geen gegevens verzameld";
+"ok" = "OK";
+"name" = "Naam";
+"email" = "E‑mail";
+"termin_title" = "Titel";
+"termin_date" = "Datum en tijd";
+"termin_note" = "Notitie (optioneel)";
+"save" = "Opslaan";
+"close" = "Sluiten";
+"today" = "Vandaag";
+"future" = "Toekomst";
+"past" = "Verleden";
+"completed" = "Voltooid";
+
+/* --- Reminder toevoegingen (NL) --- */
+"reminder" = "Herinnering";
+"remind" = "Herinner";
+"minutes_before" = "minuten van tevoren";
+"minutes_before_format" = "%d %@";
+
+/* Usage summary (SettingsView) */
+"usage_summary" = "Afspraken: %d/%d • Notities: %d/%d";
+
+/* Eenmalige aankoop (nieuwe sleutels) */
+"one_time_price_format" = "Eenmalig %@";
+"open_pro_with_price" = "Pro ontgrendelen (%@)";
+"pro_benefits_bullets" = "Onbeperkte afspraken en notities • Aangepaste herinneringen • Thema-/kleurverbeteringen";
+
+/* Verwijderbevestiging (alerts) */
+"confirm_delete_title" = "Verwijderen?";
+"confirm_delete_message_termin" = "Wil je deze afspraak verwijderen?";
+"confirm_delete_message_note" = "Wil je deze notitie verwijderen?";
+"delete_confirm" = "Verwijderen";

@@ -1,0 +1,91 @@
+"app_name" = "Notix";
+
+"appearance" = "Utseende";
+"theme" = "Tema";
+"system" = "System";
+"light" = "Lyst";
+"dark" = "Mørkt";
+
+"haptics" = "Haptikk";
+"enable_haptics" = "Aktiver haptikk";
+
+"notifications" = "Varsler";
+"notif_day_before" = "1 dag før (09:00)";
+"notif_hour_before" = "1 time før";
+"open_ios_notification_settings" = "Åpne iOS‑varslingsinnstillinger";
+"notifications_enabled" = "Varsler er aktivert.";
+"notifications_disabled" = "Varsler er deaktivert i iOS‑innstillinger.";
+"notifications_not_requested" = "Varslingstillatelse er ikke forespurt ennå.";
+"notifications_status_unknown" = "Varslingsstatus ukjent.";
+
+"pro_version_header" = "⭐️ Pro‑versjon";
+"pro_version_title" = "Lås opp alle funksjoner";
+"only_price_per_year" = "Kun %@/år";
+"unlimited_unlocked" = "Ubegrenset bruk låst opp.";
+
+"about" = "Om";
+"version" = "Versjon";
+"privacy_policy" = "Personvernregler";
+"terms_of_use" = "Bruksvilkår";
+"rate_this_app" = "Vurder appen";
+
+"delete_all_data" = "Slett alle data";
+"delete_all_data_message" = "Vil du slette alle notater og avtaler permanent? Denne handlingen kan ikke angres.";
+"cancel" = "Avbryt";
+"delete" = "Slett";
+
+"termin" = "Avtale";
+"notiz" = "Notat";
+"neue_erstellen" = "+ Ny";
+"einstellungen" = "Innstillinger";
+"pro_upgrade" = "Pro‑versjon";
+"unlock_unlimited" = "Lås opp ubegrensede avtaler";
+"price_label" = "Kun €0,99";
+"complete" = "Fullført";
+"edit" = "Rediger";
+"create_new" = "Opprett ny";
+"settings_language" = "Språk";
+"settings_notifications" = "Varsler";
+"settings_about" = "Om";
+"settings_pro" = "⭐️ Pro‑versjon";
+"activated" = "Aktivert ✓";
+"upgrade" = "Oppgrader";
+"restore_purchase" = "Gjenopprett kjøp";
+"limit_reached" = "Grense nådd: oppgradering kreves";
+"day_before" = "1 dag før (09:00)";
+"hour_before" = "1 time før";
+"reset_data" = "Slett alle data";
+"developer" = "Utvikler";
+"privacy_label" = "Ingen data samles inn";
+"ok" = "OK";
+"name" = "Navn";
+"email" = "E‑post";
+"termin_title" = "Tittel";
+"termin_date" = "Dato og klokkeslett";
+"termin_note" = "Notat (valgfritt)";
+"save" = "Lagre";
+"close" = "Lukk";
+"today" = "I dag";
+"future" = "Fremtid";
+"past" = "Tidligere";
+"completed" = "Fullført";
+
+/* --- Reminder-tillegg (NB) --- */
+"reminder" = "Påminnelse";
+"remind" = "Påminn";
+"minutes_before" = "minutter før";
+"minutes_before_format" = "%d %@";
+
+/* Usage summary (SettingsView) */
+"usage_summary" = "Avtaler: %d/%d • Notater: %d/%d";
+
+/* Engangskjøp (nye nøkler) */
+"one_time_price_format" = "Engangskjøp %@";
+"open_pro_with_price" = "Lås opp Pro (%@)";
+"pro_benefits_bullets" = "Ubegrensede avtaler og notater • Tilpassede påminnelser • Tema-/fargeforbedringer";
+
+/* Slettebekreftelse (varsler) */
+"confirm_delete_title" = "Slette?";
+"confirm_delete_message_termin" = "Vil du slette denne avtalen?";
+"confirm_delete_message_note" = "Vil du slette dette notatet?";
+"delete_confirm" = "Slett";

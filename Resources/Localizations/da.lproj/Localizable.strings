@@ -1,0 +1,91 @@
+"app_name" = "Notix";
+
+"appearance" = "Udseende";
+"theme" = "Tema";
+"system" = "System";
+"light" = "Lyst";
+"dark" = "Mørkt";
+
+"haptics" = "Haptik";
+"enable_haptics" = "Aktivér haptik";
+
+"notifications" = "Notifikationer";
+"notif_day_before" = "1 dag før (09.00)";
+"notif_hour_before" = "1 time før";
+"open_ios_notification_settings" = "Åbn iOS‑notifikationsindstillinger";
+"notifications_enabled" = "Notifikationer er aktiveret.";
+"notifications_disabled" = "Notifikationer er deaktiveret i iOS‑indstillinger.";
+"notifications_not_requested" = "Notifikationstilladelse er endnu ikke anmodet.";
+"notifications_status_unknown" = "Notifikationsstatus ukendt.";
+
+"pro_version_header" = "⭐️ Pro‑version";
+"pro_version_title" = "Lås op for alle funktioner";
+"only_price_per_year" = "Kun %@/år";
+"unlimited_unlocked" = "Ubegrænset brug låst op.";
+
+"about" = "Om";
+"version" = "Version";
+"privacy_policy" = "Privatlivspolitik";
+"terms_of_use" = "Brugsbetingelser";
+"rate_this_app" = "Bedøm appen";
+
+"delete_all_data" = "Slet alle data";
+"delete_all_data_message" = "Vil du permanent slette alle noter og aftaler? Denne handling kan ikke fortrydes.";
+"cancel" = "Annuller";
+"delete" = "Slet";
+
+"termin" = "Aftale";
+"notiz" = "Note";
+"neue_erstellen" = "+ Ny";
+"einstellungen" = "Indstillinger";
+"pro_upgrade" = "Pro‑version";
+"unlock_unlimited" = "Lås op for ubegrænsede aftaler";
+"price_label" = "Kun €0,99";
+"complete" = "Færdig";
+"edit" = "Rediger";
+"create_new" = "Opret ny";
+"settings_language" = "Sprog";
+"settings_notifications" = "Notifikationer";
+"settings_about" = "Om";
+"settings_pro" = "⭐️ Pro‑version";
+"activated" = "Aktiveret ✓";
+"upgrade" = "Opgrader";
+"restore_purchase" = "Gendan køb";
+"limit_reached" = "Grænse nået: opgradering kræves";
+"day_before" = "1 dag før (09.00)";
+"hour_before" = "1 time før";
+"reset_data" = "Slet alle data";
+"developer" = "Udvikler";
+"privacy_label" = "Data indsamles ikke";
+"ok" = "OK";
+"name" = "Navn";
+"email" = "E‑mail";
+"termin_title" = "Titel";
+"termin_date" = "Dato og tidspunkt";
+"termin_note" = "Note (valgfrit)";
+"save" = "Gem";
+"close" = "Luk";
+"today" = "I dag";
+"future" = "Fremtid";
+"past" = "Tidligere";
+"completed" = "Færdig";
+
+/* --- Reminder ekleri (DA) --- */
+"reminder" = "Påmindelse";
+"remind" = "Påmind";
+"minutes_before" = "minutter før";
+"minutes_before_format" = "%d %@";
+
+/* Usage summary (SettingsView) */
+"usage_summary" = "Aftaler: %d/%d • Noter: %d/%d";
+
+/* Engangskøb (nye nøgler) */
+"one_time_price_format" = "Engangskøb %@";
+"open_pro_with_price" = "Lås op for Pro (%@)";
+"pro_benefits_bullets" = "Ubegrænsede aftaler og noter • Tilpassede påmindelser • Tema-/farveforbedringer";
+
+/* Sletme onayı (alerts) */
+"confirm_delete_title" = "Slet?";
+"confirm_delete_message_termin" = "Vil du slette denne aftale?";
+"confirm_delete_message_note" = "Vil du slette denne note?";
+"delete_confirm" = "Slet";

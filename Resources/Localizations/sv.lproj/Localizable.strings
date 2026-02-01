@@ -1,0 +1,91 @@
+"app_name" = "Notix";
+
+"appearance" = "Utseende";
+"theme" = "Tema";
+"system" = "System";
+"light" = "Ljus";
+"dark" = "Mörk";
+
+"haptics" = "Haptik";
+"enable_haptics" = "Aktivera haptik";
+
+"notifications" = "Aviseringar";
+"notif_day_before" = "1 dag innan (09:00)";
+"notif_hour_before" = "1 timme innan";
+"open_ios_notification_settings" = "Öppna iOS‑inställningar för aviseringar";
+"notifications_enabled" = "Aviseringar är aktiverade.";
+"notifications_disabled" = "Aviseringar är avstängda i iOS‑inställningar.";
+"notifications_not_requested" = "Aviseringsbehörighet har ännu inte begärts.";
+"notifications_status_unknown" = "Aviseringsstatus okänd.";
+
+"pro_version_header" = "⭐️ Pro‑version";
+"pro_version_title" = "Lås upp alla funktioner";
+"only_price_per_year" = "Endast %@/år";
+"unlimited_unlocked" = "Obegränsad användning upplåst.";
+
+"about" = "Om";
+"version" = "Version";
+"privacy_policy" = "Integritetspolicy";
+"terms_of_use" = "Användarvillkor";
+"rate_this_app" = "Betygsätt appen";
+
+"delete_all_data" = "Radera all data";
+"delete_all_data_message" = "Vill du radera alla anteckningar och möten permanent? Detta går inte att ångra.";
+"cancel" = "Avbryt";
+"delete" = "Radera";
+
+"termin" = "Möte";
+"notiz" = "Anteckning";
+"neue_erstellen" = "+ Ny";
+"einstellungen" = "Inställningar";
+"pro_upgrade" = "Pro‑version";
+"unlock_unlimited" = "Lås upp obegränsade möten";
+"price_label" = "Endast €0,99";
+"complete" = "Klart";
+"edit" = "Redigera";
+"create_new" = "Skapa ny";
+"settings_language" = "Språk";
+"settings_notifications" = "Aviseringar";
+"settings_about" = "Om";
+"settings_pro" = "⭐️ Pro‑version";
+"activated" = "Aktiverad ✓";
+"upgrade" = "Uppgradera";
+"restore_purchase" = "Återställ köp";
+"limit_reached" = "Gräns uppnådd: uppgradering krävs";
+"day_before" = "1 dag innan (09:00)";
+"hour_before" = "1 timme innan";
+"reset_data" = "Radera all data";
+"developer" = "Utvecklare";
+"privacy_label" = "Ingen data samlas in";
+"ok" = "OK";
+"name" = "Namn";
+"email" = "E‑post";
+"termin_title" = "Titel";
+"termin_date" = "Datum och tid";
+"termin_note" = "Anteckning (valfritt)";
+"save" = "Spara";
+"close" = "Stäng";
+"today" = "Idag";
+"future" = "Framtid";
+"past" = "Tidigare";
+"completed" = "Klart";
+
+/* --- Påminnelse-tillägg (SV) --- */
+"reminder" = "Påminnelse";
+"remind" = "Påminn";
+"minutes_before" = "minuter innan";
+"minutes_before_format" = "%d %@";
+
+/* Usage summary (SettingsView) */
+"usage_summary" = "Möten: %d/%d • Anteckningar: %d/%d";
+
+/* Engångsköp (nya nycklar) */
+"one_time_price_format" = "Engångsköp %@";
+"open_pro_with_price" = "Lås upp Pro (%@)";
+"pro_benefits_bullets" = "Obegränsade möten och anteckningar • Anpassade påminnelser • Tema-/färgförbättringar";
+
+/* Raderingsbekräftelse (alerts) */
+"confirm_delete_title" = "Radera?";
+"confirm_delete_message_termin" = "Vill du radera detta möte?";
+"confirm_delete_message_note" = "Vill du radera denna anteckning?";
+"delete_confirm" = "Radera";
